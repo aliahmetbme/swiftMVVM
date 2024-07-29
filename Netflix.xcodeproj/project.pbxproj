@@ -29,6 +29,7 @@
 		FE550EC42C57E5E800E9BE4F /* HomeViewModelBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE550EC32C57E5E800E9BE4F /* HomeViewModelBuilder.swift */; };
 		FE550EC62C57ECB200E9BE4F /* Sections+TableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE550EC52C57ECB200E9BE4F /* Sections+TableView.swift */; };
 		FE550EC82C580A9500E9BE4F /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE550EC72C580A9500E9BE4F /* Config.swift */; };
+		FE550ECA2C580CDC00E9BE4F /* ConfigExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE550EC92C580CDC00E9BE4F /* ConfigExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,7 @@
 		FE550EC32C57E5E800E9BE4F /* HomeViewModelBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModelBuilder.swift; sourceTree = "<group>"; };
 		FE550EC52C57ECB200E9BE4F /* Sections+TableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sections+TableView.swift"; sourceTree = "<group>"; };
 		FE550EC72C580A9500E9BE4F /* Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
+		FE550EC92C580CDC00E9BE4F /* ConfigExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfigExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 				FE550E872C57A64700E9BE4F /* SceneDelegate.swift */,
 				FE550E852C57A64700E9BE4F /* AppDelegate.swift */,
 				FE550EC72C580A9500E9BE4F /* Config.swift */,
+				FE550EC92C580CDC00E9BE4F /* ConfigExample.swift */,
 			);
 			path = Support;
 			sourceTree = "<group>";
@@ -366,6 +369,7 @@
 				FE550EA92C57A75800E9BE4F /* DowloadViewController.swift in Sources */,
 				FE550EB62C57CE2400E9BE4F /* HTTPConstant.swift in Sources */,
 				FE550EB92C57D23500E9BE4F /* NetworkCaller.swift in Sources */,
+				FE550ECA2C580CDC00E9BE4F /* ConfigExample.swift in Sources */,
 				FE550EBC2C57D4E200E9BE4F /* HomeViewModelContract.swift in Sources */,
 				FE550EB42C57C1C000E9BE4F /* MainHeroHeaderView.swift in Sources */,
 				FE550EC62C57ECB200E9BE4F /* Sections+TableView.swift in Sources */,
